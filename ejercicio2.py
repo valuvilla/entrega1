@@ -1,1 +1,1 @@
-print("welcomedart side2")
+print("welcomedart side")
